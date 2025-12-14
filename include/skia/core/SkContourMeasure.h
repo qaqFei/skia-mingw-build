@@ -8,11 +8,11 @@
 #ifndef SkContourMeasure_DEFINED
 #define SkContourMeasure_DEFINED
 
-#include "include/core/SkPoint.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkTDArray.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkTDArray.h"
 
 #include <memory>
 

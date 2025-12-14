@@ -8,9 +8,9 @@
 #ifndef SkFontArguments_DEFINED
 #define SkFontArguments_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 /** Represents a set of actual arguments for a font. */
 struct SkFontArguments {

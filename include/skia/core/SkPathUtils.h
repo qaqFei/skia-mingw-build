@@ -7,8 +7,8 @@
 #ifndef SkPathUtils_DEFINED
 #define SkPathUtils_DEFINED
 
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 class SkMatrix;
 class SkPaint;

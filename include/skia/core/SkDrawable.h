@@ -8,10 +8,10 @@
 #ifndef SkDrawable_DEFINED
 #define SkDrawable_DEFINED
 
-#include "include/core/SkFlattenable.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkFlattenable.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstddef>
 #include <cstdint>

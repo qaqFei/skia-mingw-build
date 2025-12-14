@@ -8,9 +8,9 @@
 #ifndef GrMockOptions_DEFINED
 #define GrMockOptions_DEFINED
 
-#include "include/core/SkTextureCompressionType.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/private/gpu/ganesh/GrTypesPriv.h"
+#include "skia/core/SkTextureCompressionType.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/private/gpu/ganesh/GrTypesPriv.h"
 
 class GrBackendFormat;
 

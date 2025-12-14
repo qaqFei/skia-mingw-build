@@ -8,20 +8,20 @@
 #ifndef SkAndroidCodec_DEFINED
 #define SkAndroidCodec_DEFINED
 
-#include "include/codec/SkCodec.h"
-#include "include/core/SkColorSpace.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
-#include "include/private/SkEncodedInfo.h"
-#include "include/private/base/SkNoncopyable.h"
+#include "skia/codec/SkCodec.h"
+#include "skia/core/SkColorSpace.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/SkEncodedInfo.h"
+#include "skia/private/base/SkNoncopyable.h"
 #include "modules/skcms/skcms.h"
 
 // TODO(kjlubick, bungeman) Replace these includes with forward declares
-#include "include/codec/SkEncodedImageFormat.h" // IWYU pragma: keep
-#include "include/core/SkAlphaType.h" // IWYU pragma: keep
-#include "include/core/SkColorType.h" // IWYU pragma: keep
+#include "skia/codec/SkEncodedImageFormat.h" // IWYU pragma: keep
+#include "skia/core/SkAlphaType.h" // IWYU pragma: keep
+#include "skia/core/SkColorType.h" // IWYU pragma: keep
 
 #include <cstddef>
 #include <memory>

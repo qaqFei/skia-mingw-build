@@ -8,10 +8,10 @@
 #ifndef SkExif_DEFINED
 #define SkExif_DEFINED
 
-#include "include/codec/SkEncodedOrigin.h"
-#include "include/core/SkData.h"
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/codec/SkEncodedOrigin.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstdint>
 

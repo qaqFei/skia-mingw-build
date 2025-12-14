@@ -8,8 +8,8 @@
 #ifndef SkDiscardableMemory_DEFINED
 #define SkDiscardableMemory_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
 
 /**
  *  Interface for discardable memory. Implementation is provided by the

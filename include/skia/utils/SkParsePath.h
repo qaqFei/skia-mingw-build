@@ -10,7 +10,7 @@
 #ifndef SkParsePath_DEFINED
 #define SkParsePath_DEFINED
 
-#include "include/core/SkPath.h"
+#include "skia/core/SkPath.h"
 
 class SkString;
 

@@ -8,16 +8,16 @@
 #ifndef SkPath_DEFINED
 #define SkPath_DEFINED
 
-#include "include/core/SkMatrix.h"
-#include "include/core/SkPathTypes.h"
-#include "include/core/SkPoint.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkDebug.h"
-#include "include/private/base/SkTo.h"
-#include "include/private/base/SkTypeTraits.h"
+#include "skia/core/SkMatrix.h"
+#include "skia/core/SkPathTypes.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkDebug.h"
+#include "skia/private/base/SkTo.h"
+#include "skia/private/base/SkTypeTraits.h"
 
 #include <atomic>
 #include <cstddef>

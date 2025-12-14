@@ -8,7 +8,7 @@
 #ifndef SkImageSampling_DEFINED
 #define SkImageSampling_DEFINED
 
-#include "include/core/SkTypes.h"
+#include "skia/core/SkTypes.h"
 
 #include <algorithm>
 #include <new>

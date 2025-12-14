@@ -8,9 +8,9 @@
 #ifndef SkDocument_DEFINED
 #define SkDocument_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
 
 class SkCanvas;
 class SkWStream;

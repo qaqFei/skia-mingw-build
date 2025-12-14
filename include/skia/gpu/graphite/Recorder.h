@@ -8,12 +8,12 @@
 #ifndef skgpu_graphite_Recorder_DEFINED
 #define skgpu_graphite_Recorder_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/gpu/graphite/Recording.h"
-#include "include/private/base/SingleOwner.h"
-#include "include/private/base/SkTArray.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/gpu/graphite/Recording.h"
+#include "skia/private/base/SingleOwner.h"
+#include "skia/private/base/SkTArray.h"
 
 #include <chrono>
 #include <vector>

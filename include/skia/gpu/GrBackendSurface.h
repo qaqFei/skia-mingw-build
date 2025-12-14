@@ -8,15 +8,15 @@
 #ifndef GrBackendSurface_DEFINED
 #define GrBackendSurface_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAnySubclass.h"
-#include "include/private/gpu/ganesh/GrTypesPriv.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAnySubclass.h"
+#include "skia/private/gpu/ganesh/GrTypesPriv.h"
 
-#include "include/gpu/mock/GrMockTypes.h"
+#include "skia/gpu/mock/GrMockTypes.h"
 
 enum class SkTextureCompressionType;
 class GrBackendFormatData;
@@ -28,11 +28,11 @@ class MutableTextureState;
 }
 
 #ifdef SK_METAL
-#include "include/gpu/ganesh/mtl/GrMtlTypes.h"
+#include "skia/gpu/ganesh/mtl/GrMtlTypes.h"
 #endif
 
 #ifdef SK_DIRECT3D
-#include "include/private/gpu/ganesh/GrD3DTypesMinimal.h"
+#include "skia/private/gpu/ganesh/GrD3DTypesMinimal.h"
 class GrD3DResourceState;
 #endif
 

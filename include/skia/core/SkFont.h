@@ -8,13 +8,13 @@
 #ifndef SkFont_DEFINED
 #define SkFont_DEFINED
 
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypeface.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTo.h"
-#include "include/private/base/SkTypeTraits.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypeface.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTo.h"
+#include "skia/private/base/SkTypeTraits.h"
 
 #include <cstddef>
 #include <cstdint>

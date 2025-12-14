@@ -8,10 +8,10 @@
 #ifndef SkIDChangeListener_DEFINED
 #define SkIDChangeListener_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkMutex.h"
-#include "include/private/base/SkTArray.h"
-#include "include/private/base/SkThreadAnnotations.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkMutex.h"
+#include "skia/private/base/SkTArray.h"
+#include "skia/private/base/SkThreadAnnotations.h"
 
 #include <atomic>
 

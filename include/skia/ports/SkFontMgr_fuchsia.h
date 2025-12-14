@@ -10,7 +10,7 @@
 
 #include <fuchsia/fonts/cpp/fidl.h>
 
-#include "include/core/SkRefCnt.h"
+#include "skia/core/SkRefCnt.h"
 
 class SkFontMgr;
 

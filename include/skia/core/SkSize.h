@@ -8,7 +8,7 @@
 #ifndef SkSize_DEFINED
 #define SkSize_DEFINED
 
-#include "include/core/SkScalar.h"
+#include "skia/core/SkScalar.h"
 
 #include <cstdint>
 

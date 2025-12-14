@@ -8,8 +8,8 @@
 #ifndef SkThreadID_DEFINED
 #define SkThreadID_DEFINED
 
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkDebug.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkDebug.h"
 
 #include <cstdint>
 

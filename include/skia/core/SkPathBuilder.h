@@ -8,15 +8,15 @@
 #ifndef SkPathBuilder_DEFINED
 #define SkPathBuilder_DEFINED
 
-#include "include/core/SkPath.h"
-#include "include/core/SkPathTypes.h"
-#include "include/core/SkPoint.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/SkPathRef.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkPath.h"
+#include "skia/core/SkPathTypes.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/SkPathRef.h"
+#include "skia/private/base/SkTo.h"
 
 #include <initializer_list>
 

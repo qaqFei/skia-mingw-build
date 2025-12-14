@@ -8,12 +8,12 @@
 #ifndef SkRect_DEFINED
 #define SkRect_DEFINED
 
-#include "include/core/SkPoint.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkFloatingPoint.h"
-#include "include/private/base/SkSafe32.h"
-#include "include/private/base/SkTFitsIn.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkFloatingPoint.h"
+#include "skia/private/base/SkSafe32.h"
+#include "skia/private/base/SkTFitsIn.h"
 
 #include <algorithm>
 #include <cmath>

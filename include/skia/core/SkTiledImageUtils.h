@@ -8,13 +8,13 @@
 #ifndef SkTiledImageUtils_DEFINED
 #define SkTiledImageUtils_DEFINED
 
-#include "include/core/SkCanvas.h"
-#include "include/core/SkImage.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkCanvas.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstdint>
 

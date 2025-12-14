@@ -8,9 +8,9 @@
 #ifndef SkFloatingPoint_DEFINED
 #define SkFloatingPoint_DEFINED
 
-#include "include/private/base/SkAttributes.h"
-#include "include/private/base/SkFloatBits.h"
-#include "include/private/base/SkMath.h"
+#include "skia/private/base/SkAttributes.h"
+#include "skia/private/base/SkFloatBits.h"
+#include "skia/private/base/SkMath.h"
 
 #include <cmath>
 #include <cstdint>

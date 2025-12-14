@@ -8,8 +8,8 @@
 #ifndef SkFontParameters_DEFINED
 #define SkFontParameters_DEFINED
 
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 struct SkFontParameters {
     struct Variation {

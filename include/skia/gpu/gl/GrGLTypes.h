@@ -9,9 +9,9 @@
 #ifndef GrGLTypes_DEFINED
 #define GrGLTypes_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/gl/GrGLConfig.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/gl/GrGLConfig.h"
 
 /**
  * Classifies GL contexts by which standard they implement (currently as OpenGL vs. OpenGL ES).

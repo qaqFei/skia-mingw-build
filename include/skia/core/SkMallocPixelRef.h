@@ -8,8 +8,8 @@
 #ifndef SkMallocPixelRef_DEFINED
 #define SkMallocPixelRef_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
 
 #include <cstddef>
 

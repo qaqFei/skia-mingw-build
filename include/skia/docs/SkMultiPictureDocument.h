@@ -8,10 +8,10 @@
 #ifndef SkMultiPictureDocument_DEFINED
 #define SkMultiPictureDocument_DEFINED
 
-#include "include/core/SkPicture.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkPicture.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
 
 #include <functional>
 

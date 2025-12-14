@@ -8,10 +8,10 @@
 #ifndef GrImageContext_DEFINED
 #define GrImageContext_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SingleOwner.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/gpu/ganesh/GrContext_Base.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SingleOwner.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/gpu/ganesh/GrContext_Base.h"
 
 class GrContextThreadSafeProxy;
 class GrImageContextPriv;

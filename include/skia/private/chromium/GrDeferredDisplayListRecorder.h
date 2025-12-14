@@ -8,10 +8,10 @@
 #ifndef GrDeferredDisplayListRecorder_DEFINED
 #define GrDeferredDisplayListRecorder_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
-#include "include/private/chromium/GrDeferredDisplayList.h"
-#include "include/private/chromium/GrSurfaceCharacterization.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/chromium/GrDeferredDisplayList.h"
+#include "skia/private/chromium/GrSurfaceCharacterization.h"
 
 class GrRecordingContext;
 class GrRenderTargetProxy;

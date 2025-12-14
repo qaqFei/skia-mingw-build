@@ -8,8 +8,8 @@
 #ifndef SkXmp_DEFINED
 #define SkXmp_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 class SkData;
 struct SkGainmapInfo;

@@ -10,7 +10,7 @@
 
 #include <memory>
 
-#include "include/private/base/SkAPI.h"
+#include "skia/private/base/SkAPI.h"
 
 namespace skgpu::graphite {
 

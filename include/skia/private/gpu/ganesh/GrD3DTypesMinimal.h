@@ -10,11 +10,11 @@
 
 // Minimal definitions of Direct3D types, without including d3d12.h
 
-#include "include/core/SkRefCnt.h"
+#include "skia/core/SkRefCnt.h"
 
 #include <dxgiformat.h>
 
-#include "include/gpu/GrTypes.h"
+#include "skia/gpu/GrTypes.h"
 
 struct ID3D12Resource;
 class GrD3DResourceState;

@@ -8,9 +8,9 @@
 #ifndef SkSurfaceProps_DEFINED
 #define SkSurfaceProps_DEFINED
 
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTo.h"
 
 /**
  *  Description of how the LCD strips are arranged for each pixel. If this is unknown, or the

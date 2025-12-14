@@ -8,7 +8,7 @@
 #ifndef SkClipOp_DEFINED
 #define SkClipOp_DEFINED
 
-#include "include/core/SkTypes.h"
+#include "skia/core/SkTypes.h"
 
 enum class SkClipOp {
     kDifference    = 0,

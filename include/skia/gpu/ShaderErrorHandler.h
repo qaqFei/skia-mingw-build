@@ -8,7 +8,7 @@
 #ifndef skgpu_ShaderErrorHandler_DEFINED
 #define skgpu_ShaderErrorHandler_DEFINED
 
-#include "include/core/SkTypes.h"
+#include "skia/core/SkTypes.h"
 
 namespace skgpu {
 /**

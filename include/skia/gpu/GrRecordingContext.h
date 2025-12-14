@@ -8,13 +8,13 @@
 #ifndef GrRecordingContext_DEFINED
 #define GrRecordingContext_DEFINED
 
-#include "include/core/SkColorType.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkString.h" // IWYU pragma: keep
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTArray.h"
-#include "include/private/gpu/ganesh/GrContext_Base.h"
-#include "include/private/gpu/ganesh/GrImageContext.h"
+#include "skia/core/SkColorType.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkString.h" // IWYU pragma: keep
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTArray.h"
+#include "skia/private/gpu/ganesh/GrContext_Base.h"
+#include "skia/private/gpu/ganesh/GrImageContext.h"
 
 #include <map>
 #include <memory>

@@ -8,8 +8,8 @@
 #ifndef SkGainmapInfo_DEFINED
 #define SkGainmapInfo_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkColorSpace.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkColorSpace.h"
 
 /**
  *  Gainmap rendering parameters. Suppose our display has HDR to SDR ratio of H and we wish to

@@ -8,15 +8,15 @@
 #ifndef skgpu_graphite_BackendSemaphore_DEFINED
 #define skgpu_graphite_BackendSemaphore_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
 
 #ifdef SK_METAL
-#include "include/gpu/graphite/mtl/MtlGraphiteTypes.h"
+#include "skia/gpu/graphite/mtl/MtlGraphiteTypes.h"
 #endif
 
 #ifdef SK_VULKAN
-#include "include/private/gpu/vk/SkiaVulkan.h"
+#include "skia/private/gpu/vk/SkiaVulkan.h"
 #endif
 
 namespace skgpu::graphite {

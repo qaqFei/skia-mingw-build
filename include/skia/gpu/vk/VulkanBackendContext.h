@@ -8,9 +8,9 @@
 #ifndef skgpu_VulkanBackendContext_DEFINED
 #define skgpu_VulkanBackendContext_DEFINED
 
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/vk/VulkanMemoryAllocator.h"
-#include "include/gpu/vk/VulkanTypes.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/vk/VulkanMemoryAllocator.h"
+#include "skia/gpu/vk/VulkanTypes.h"
 
 namespace skgpu {
 

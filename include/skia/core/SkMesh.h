@@ -8,14 +8,14 @@
 #ifndef SkMesh_DEFINED
 #define SkMesh_DEFINED
 
-#include "include/core/SkData.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSpan.h"
-#include "include/core/SkString.h"
-#include "include/effects/SkRuntimeEffect.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkTArray.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSpan.h"
+#include "skia/core/SkString.h"
+#include "skia/effects/SkRuntimeEffect.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkTArray.h"
 
 #include <cstddef>
 #include <cstdint>

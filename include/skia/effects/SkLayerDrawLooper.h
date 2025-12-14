@@ -8,10 +8,10 @@
 #ifndef SkLayerDrawLooper_DEFINED
 #define SkLayerDrawLooper_DEFINED
 
-#include "include/core/SkBlendMode.h"
-#include "include/core/SkDrawLooper.h"
-#include "include/core/SkPaint.h"
-#include "include/core/SkPoint.h"
+#include "skia/core/SkBlendMode.h"
+#include "skia/core/SkDrawLooper.h"
+#include "skia/core/SkPaint.h"
+#include "skia/core/SkPoint.h"
 
 #ifndef SK_SUPPORT_LEGACY_DRAWLOOPER
 #error "SkDrawLooper is unsupported"

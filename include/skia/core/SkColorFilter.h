@@ -8,10 +8,10 @@
 #ifndef SkColorFilter_DEFINED
 #define SkColorFilter_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkFlattenable.h"
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkFlattenable.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstddef>
 #include <cstdint>

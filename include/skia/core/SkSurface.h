@@ -8,14 +8,14 @@
 #ifndef SkSurface_DEFINED
 #define SkSurface_DEFINED
 
-#include "include/core/SkImage.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkPixmap.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkSurfaceProps.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkPixmap.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkSurfaceProps.h"
+#include "skia/core/SkTypes.h"
 
 #include <cstddef>
 #include <cstdint>

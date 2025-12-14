@@ -5,9 +5,9 @@
  * found in the LICENSE file.
  */
 
-#include "include/core/SkColor.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
 
 class SkColorFilter;
 

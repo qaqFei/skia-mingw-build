@@ -8,8 +8,8 @@
 #ifndef GrVkBackendSurface_DEFINED
 #define GrVkBackendSurface_DEFINED
 
-#include "include/gpu/vk/GrVkTypes.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/gpu/vk/GrVkTypes.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <string_view>
 

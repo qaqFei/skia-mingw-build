@@ -8,8 +8,8 @@
 #ifndef GrYUVABackendTextures_DEFINED
 #define GrYUVABackendTextures_DEFINED
 
-#include "include/core/SkYUVAInfo.h"
-#include "include/gpu/GrBackendSurface.h"
+#include "skia/core/SkYUVAInfo.h"
+#include "skia/gpu/GrBackendSurface.h"
 
 #include <tuple>
 

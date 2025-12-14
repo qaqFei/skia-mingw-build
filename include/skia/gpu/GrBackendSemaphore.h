@@ -8,12 +8,12 @@
 #ifndef GrBackendSemaphore_DEFINED
 #define GrBackendSemaphore_DEFINED
 
-#include "include/gpu/GrTypes.h"  // IWYU pragma: keep
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAnySubclass.h"
+#include "skia/gpu/GrTypes.h"  // IWYU pragma: keep
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAnySubclass.h"
 
 #ifdef SK_DIRECT3D
-#include "include/private/gpu/ganesh/GrD3DTypesMinimal.h"
+#include "skia/private/gpu/ganesh/GrD3DTypesMinimal.h"
 #endif
 
 #include <cstddef>

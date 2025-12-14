@@ -8,7 +8,7 @@
 #ifndef GrVkExtensions_DEFINED
 #define GrVkExtensions_DEFINED
 
-#include "include/gpu/vk/VulkanExtensions.h"
+#include "skia/gpu/vk/VulkanExtensions.h"
 
 using GrVkExtensions = skgpu::VulkanExtensions;
 

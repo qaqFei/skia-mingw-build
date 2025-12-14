@@ -8,9 +8,9 @@
 #ifndef GrTextureGenerator_DEFINED
 #define GrTextureGenerator_DEFINED
 
-#include "include/core/SkImageGenerator.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkImageGenerator.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstdint>
 

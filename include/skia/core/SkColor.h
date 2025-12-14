@@ -8,10 +8,10 @@
 #ifndef SkColor_DEFINED
 #define SkColor_DEFINED
 
-#include "include/core/SkAlphaType.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkCPUTypes.h"
+#include "skia/core/SkAlphaType.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkCPUTypes.h"
 
 #include <array>
 #include <cstdint>

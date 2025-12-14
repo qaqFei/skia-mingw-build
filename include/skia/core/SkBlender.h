@@ -8,8 +8,8 @@
 #ifndef SkBlender_DEFINED
 #define SkBlender_DEFINED
 
-#include "include/core/SkBlendMode.h"
-#include "include/core/SkFlattenable.h"
+#include "skia/core/SkBlendMode.h"
+#include "skia/core/SkFlattenable.h"
 
 /**
  * SkBlender represents a custom blend function in the Skia pipeline. When an SkBlender is

@@ -8,15 +8,15 @@
 #ifndef SkPathRef_DEFINED
 #define SkPathRef_DEFINED
 
-#include "include/core/SkPoint.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/SkIDChangeListener.h"
-#include "include/private/base/SkDebug.h"
-#include "include/private/base/SkTArray.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/SkIDChangeListener.h"
+#include "skia/private/base/SkDebug.h"
+#include "skia/private/base/SkTArray.h"
+#include "skia/private/base/SkTo.h"
 
 #include <atomic>
 #include <cstddef>

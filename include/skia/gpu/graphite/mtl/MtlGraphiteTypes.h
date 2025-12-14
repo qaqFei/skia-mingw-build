@@ -8,8 +8,8 @@
 #ifndef skgpu_graphite_MtlGraphiteTypes_DEFINED
 #define skgpu_graphite_MtlGraphiteTypes_DEFINED
 
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/ports/SkCFObject.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/ports/SkCFObject.h"
 
 ///////////////////////////////////////////////////////////////////////////////
 

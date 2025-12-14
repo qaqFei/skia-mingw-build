@@ -7,8 +7,8 @@
 #ifndef GrGLAssembleInterface_DEFINED
 #define GrGLAssembleInterface_DEFINED
 
-#include "include/gpu/gl/GrGLInterface.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/gpu/gl/GrGLInterface.h"
+#include "skia/private/base/SkAPI.h"
 
 typedef GrGLFuncPtr (*GrGLGetProc)(void* ctx, const char name[]);
 

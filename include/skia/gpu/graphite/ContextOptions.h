@@ -8,8 +8,8 @@
 #ifndef skgpu_graphite_ContextOptions_DEFINED
 #define skgpu_graphite_ContextOptions_DEFINED
 
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkMath.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkMath.h"
 
 namespace skgpu { class ShaderErrorHandler; }
 

@@ -8,13 +8,13 @@
 #ifndef GrDirectContext_DEFINED
 #define GrDirectContext_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/GrContextOptions.h"
-#include "include/gpu/GrRecordingContext.h"
-#include "include/gpu/GrTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/GrContextOptions.h"
+#include "skia/gpu/GrRecordingContext.h"
+#include "skia/gpu/GrTypes.h"
 
 #include <chrono>
 #include <cstddef>

@@ -9,15 +9,15 @@
 #ifndef SkNWayCanvas_DEFINED
 #define SkNWayCanvas_DEFINED
 
-#include "include/core/SkCanvasVirtualEnforcer.h"
-#include "include/core/SkColor.h"
-#include "include/core/SkM44.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTDArray.h"
-#include "include/utils/SkNoDrawCanvas.h"
+#include "skia/core/SkCanvasVirtualEnforcer.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkM44.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTDArray.h"
+#include "skia/utils/SkNoDrawCanvas.h"
 
 #include <cstddef>
 

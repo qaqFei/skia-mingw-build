@@ -3,15 +3,15 @@
 #ifndef SkPDFDocument_DEFINED
 #define SkPDFDocument_DEFINED
 
-#include "include/core/SkDocument.h"
+#include "skia/core/SkDocument.h"
 
 #include <vector>
 
-#include "include/core/SkColor.h"
-#include "include/core/SkMilestone.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkString.h"
-#include "include/private/base/SkNoncopyable.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkMilestone.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkString.h"
+#include "skia/private/base/SkNoncopyable.h"
 #include "src/base/SkTime.h"
 
 #define SKPDF_STRING(X) SKPDF_STRING_IMPL(X)

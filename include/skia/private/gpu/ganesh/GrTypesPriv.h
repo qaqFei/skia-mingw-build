@@ -8,17 +8,17 @@
 #ifndef GrTypesPriv_DEFINED
 #define GrTypesPriv_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkColorType.h"
-#include "include/core/SkData.h"
-#include "include/core/SkPath.h"
-#include "include/core/SkPathTypes.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTextureCompressionType.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAssert.h"
-#include "include/private/base/SkMacros.h"
-#include "include/private/base/SkTypeTraits.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkColorType.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkPath.h"
+#include "skia/core/SkPathTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTextureCompressionType.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAssert.h"
+#include "skia/private/base/SkMacros.h"
+#include "skia/private/base/SkTypeTraits.h"
 
 #include <cstddef>
 #include <cstdint>

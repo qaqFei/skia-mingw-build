@@ -8,23 +8,23 @@
 #ifndef SkRuntimeEffect_DEFINED
 #define SkRuntimeEffect_DEFINED
 
-#include "include/core/SkBlender.h"  // IWYU pragma: keep
-#include "include/core/SkColorFilter.h"  // IWYU pragma: keep
-#include "include/core/SkData.h"
-#include "include/core/SkFlattenable.h"
-#include "include/core/SkMatrix.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkShader.h"
-#include "include/core/SkSpan.h"
-#include "include/core/SkString.h"
-#include "include/core/SkTypes.h"
-#include "include/private/SkSLSampleUsage.h"
-#include "include/private/base/SkOnce.h"
-#include "include/private/base/SkTemplates.h"
-#include "include/private/base/SkTo.h"
-#include "include/private/base/SkTypeTraits.h"
-#include "include/sksl/SkSLDebugTrace.h"
-#include "include/sksl/SkSLVersion.h"
+#include "skia/core/SkBlender.h"  // IWYU pragma: keep
+#include "skia/core/SkColorFilter.h"  // IWYU pragma: keep
+#include "skia/core/SkData.h"
+#include "skia/core/SkFlattenable.h"
+#include "skia/core/SkMatrix.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkShader.h"
+#include "skia/core/SkSpan.h"
+#include "skia/core/SkString.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/SkSLSampleUsage.h"
+#include "skia/private/base/SkOnce.h"
+#include "skia/private/base/SkTemplates.h"
+#include "skia/private/base/SkTo.h"
+#include "skia/private/base/SkTypeTraits.h"
+#include "skia/sksl/SkSLDebugTrace.h"
+#include "skia/sksl/SkSLVersion.h"
 
 #include <cstddef>
 #include <cstdint>

@@ -8,8 +8,8 @@
 #ifndef skgpu_graphite_DawnTypesPriv_DEFINED
 #define skgpu_graphite_DawnTypesPriv_DEFINED
 
-#include "include/core/SkString.h"
-#include "include/gpu/graphite/dawn/DawnTypes.h"
+#include "skia/core/SkString.h"
+#include "skia/gpu/graphite/dawn/DawnTypes.h"
 
 namespace skgpu::graphite {
 

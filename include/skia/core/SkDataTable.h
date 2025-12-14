@@ -8,9 +8,9 @@
 #ifndef SkDataTable_DEFINED
 #define SkDataTable_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAssert.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAssert.h"
 
 #include <cstdint>
 #include <cstring>

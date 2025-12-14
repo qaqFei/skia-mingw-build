@@ -8,9 +8,9 @@
 #ifndef GrPromiseImageTexture_DEFINED
 #define GrPromiseImageTexture_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GrBackendSurface.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GrBackendSurface.h"
 /**
  * This type is used to fulfill textures for PromiseImages. Once an instance is returned from a
  * PromiseImageTextureFulfillProc the GrBackendTexture it wraps must remain valid until the

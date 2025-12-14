@@ -8,8 +8,8 @@
 #ifndef SkFontMetrics_DEFINED
 #define SkFontMetrics_DEFINED
 
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkTo.h"
 
 /** \class SkFontMetrics
     The metrics of an SkFont.

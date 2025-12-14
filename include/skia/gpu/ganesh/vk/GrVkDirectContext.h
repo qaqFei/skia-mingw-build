@@ -8,8 +8,8 @@
 #ifndef GrVkDirectContext_DEFINED
 #define GrVkDirectContext_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 class GrDirectContext;
 struct GrContextOptions;

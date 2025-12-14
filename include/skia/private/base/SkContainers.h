@@ -4,8 +4,8 @@
 #ifndef SkContainers_DEFINED
 #define SkContainers_DEFINED
 
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkSpan_impl.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkSpan_impl.h"
 
 #include <cstddef>
 #include <cstdint>

@@ -8,8 +8,8 @@
 #ifndef GrMtlBackendContext_DEFINED
 #define GrMtlBackendContext_DEFINED
 
-#include "include/gpu/ganesh/mtl/GrMtlTypes.h"
-#include "include/ports/SkCFObject.h"
+#include "skia/gpu/ganesh/mtl/GrMtlTypes.h"
+#include "skia/ports/SkCFObject.h"
 
 // The BackendContext contains all of the base Metal objects needed by the GrMtlGpu. The assumption
 // is that the client will set these up and pass them to the GrMtlGpu constructor.

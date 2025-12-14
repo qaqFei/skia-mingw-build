@@ -8,11 +8,11 @@
 #ifndef SkRegion_DEFINED
 #define SkRegion_DEFINED
 
-#include "include/core/SkRect.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAssert.h"
-#include "include/private/base/SkDebug.h"
-#include "include/private/base/SkTypeTraits.h"
+#include "skia/core/SkRect.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAssert.h"
+#include "skia/private/base/SkDebug.h"
+#include "skia/private/base/SkTypeTraits.h"
 
 #include <cstddef>
 #include <cstdint>

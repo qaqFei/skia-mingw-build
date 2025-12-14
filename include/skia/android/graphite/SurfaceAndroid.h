@@ -8,7 +8,7 @@
 #ifndef SurfaceAndroid_DEFINED
 #define SurfaceAndroid_DEFINED
 
-#include "include/core/SkRefCnt.h"
+#include "skia/core/SkRefCnt.h"
 
 struct AHardwareBuffer;
 class SkColorSpace;

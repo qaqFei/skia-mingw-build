@@ -8,13 +8,13 @@
 #ifndef skgpu_graphite_Context_DEFINED
 #define skgpu_graphite_Context_DEFINED
 
-#include "include/core/SkImage.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkShader.h"
-#include "include/gpu/graphite/ContextOptions.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/gpu/graphite/Recorder.h"
-#include "include/private/base/SingleOwner.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkShader.h"
+#include "skia/gpu/graphite/ContextOptions.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/gpu/graphite/Recorder.h"
+#include "skia/private/base/SingleOwner.h"
 
 #include <chrono>
 #include <functional>

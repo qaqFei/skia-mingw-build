@@ -9,8 +9,8 @@
 #ifndef GrVkTypes_DEFINED
 #define GrVkTypes_DEFINED
 
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/vk/VulkanTypes.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/vk/VulkanTypes.h"
 
 using GrVkBackendMemory = skgpu::VulkanBackendMemory;
 using GrVkAlloc = skgpu::VulkanAlloc;

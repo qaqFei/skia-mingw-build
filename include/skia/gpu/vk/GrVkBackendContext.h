@@ -8,9 +8,9 @@
 #ifndef GrVkBackendContext_DEFINED
 #define GrVkBackendContext_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/vk/GrVkTypes.h"
-#include "include/gpu/vk/VulkanMemoryAllocator.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/vk/GrVkTypes.h"
+#include "skia/gpu/vk/VulkanMemoryAllocator.h"
 
 namespace skgpu { class VulkanExtensions; }
 

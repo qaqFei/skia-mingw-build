@@ -8,9 +8,9 @@
 #ifndef SkTypeface_win_DEFINED
 #define SkTypeface_win_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypeface.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypeface.h"
+#include "skia/core/SkTypes.h"
 
 #ifdef SK_BUILD_FOR_WIN
 

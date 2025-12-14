@@ -8,11 +8,11 @@
 #ifndef SkSurfaceGanesh_DEFINED
 #define SkSurfaceGanesh_DEFINED
 
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSurface.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSurface.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAPI.h"
 
 class GrBackendRenderTarget;
 class GrBackendTexture;

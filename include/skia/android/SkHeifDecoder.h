@@ -7,8 +7,8 @@
 #ifndef SkHeifDecoder_DEFINED
 #define SkHeifDecoder_DEFINED
 
-#include "include/codec/SkCodec.h"
-#include "include/core/SkRefCnt.h"
+#include "skia/codec/SkCodec.h"
+#include "skia/core/SkRefCnt.h"
 
 class SkData;
 class SkStream;

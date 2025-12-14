@@ -8,9 +8,9 @@
 #ifndef sktext_gpu_Slug_DEFINED
 #define sktext_gpu_Slug_DEFINED
 
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstddef>
 #include <cstdint>

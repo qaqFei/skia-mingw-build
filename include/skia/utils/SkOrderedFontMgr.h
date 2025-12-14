@@ -8,9 +8,9 @@
 #ifndef SkOrderedFontMgr_DEFINED
 #define SkOrderedFontMgr_DEFINED
 
-#include "include/core/SkFontMgr.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkFontMgr.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
 
 #include <memory>
 #include <vector>

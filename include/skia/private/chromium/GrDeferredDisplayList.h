@@ -8,11 +8,11 @@
 #ifndef GrDeferredDisplayList_DEFINED
 #define GrDeferredDisplayList_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GrRecordingContext.h"
-#include "include/private/base/SkTArray.h"
-#include "include/private/chromium/GrSurfaceCharacterization.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GrRecordingContext.h"
+#include "skia/private/base/SkTArray.h"
+#include "skia/private/chromium/GrSurfaceCharacterization.h"
 
 class GrDirectContext;
 class GrRenderTargetProxy;

@@ -8,8 +8,8 @@
 #ifndef skgpu_graphite_Recording_DEFINED
 #define skgpu_graphite_Recording_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkTArray.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkTArray.h"
 
 #include <memory>
 #include <unordered_set>

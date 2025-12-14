@@ -8,10 +8,10 @@
 #ifndef SkColorPriv_DEFINED
 #define SkColorPriv_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/private/base/SkMath.h"
-#include "include/private/base/SkTPin.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkColor.h"
+#include "skia/private/base/SkMath.h"
+#include "skia/private/base/SkTPin.h"
+#include "skia/private/base/SkTo.h"
 
 #include <algorithm>
 

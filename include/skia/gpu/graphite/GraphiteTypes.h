@@ -8,9 +8,9 @@
 #ifndef skgpu_graphite_GraphiteTypes_DEFINED
 #define skgpu_graphite_GraphiteTypes_DEFINED
 
-#include "include/core/SkPoint.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GpuTypes.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GpuTypes.h"
 
 #include <memory>
 

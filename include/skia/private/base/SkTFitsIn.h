@@ -8,7 +8,7 @@
 #ifndef SkTFitsIn_DEFINED
 #define SkTFitsIn_DEFINED
 
-#include "include/private/base/SkDebug.h"
+#include "skia/private/base/SkDebug.h"
 
 #include <cstdint>
 #include <limits>

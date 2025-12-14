@@ -21,8 +21,8 @@
 // You should only include this header if you need the Direct3D definitions and are
 // prepared to rename those identifiers.
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GpuTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GpuTypes.h"
 #include <d3d12.h>
 #include <dxgi1_4.h>
 

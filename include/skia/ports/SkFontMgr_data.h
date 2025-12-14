@@ -7,10 +7,10 @@
 #ifndef SkFontMgr_data_DEFINED
 #define SkFontMgr_data_DEFINED
 
-#include "include/core/SkData.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSpan.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSpan.h"
+#include "skia/core/SkTypes.h"
 
 class SkFontMgr;
 

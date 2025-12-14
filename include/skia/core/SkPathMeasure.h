@@ -8,11 +8,11 @@
 #ifndef SkPathMeasure_DEFINED
 #define SkPathMeasure_DEFINED
 
-#include "include/core/SkContourMeasure.h"
-#include "include/core/SkPoint.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkContourMeasure.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
 
 class SkMatrix;
 class SkPath;

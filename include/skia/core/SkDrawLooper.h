@@ -10,10 +10,10 @@
 #ifndef SkDrawLooper_DEFINED
 #define SkDrawLooper_DEFINED
 
-#include "include/core/SkBlurTypes.h"
-#include "include/core/SkColor.h"
-#include "include/core/SkFlattenable.h"
-#include "include/core/SkPoint.h"
+#include "skia/core/SkBlurTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkFlattenable.h"
+#include "skia/core/SkPoint.h"
 #include <functional>  // std::function
 
 #ifndef SK_SUPPORT_LEGACY_DRAWLOOPER

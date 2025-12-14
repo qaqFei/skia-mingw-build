@@ -8,7 +8,7 @@
 #ifndef SkBlurDrawLooper_DEFINED
 #define SkBlurDrawLooper_DEFINED
 
-#include "include/core/SkDrawLooper.h"
+#include "skia/core/SkDrawLooper.h"
 
 #ifndef SK_SUPPORT_LEGACY_DRAWLOOPER
 #error "SkDrawLooper is unsupported"

@@ -8,9 +8,9 @@
 #ifndef SkShadowUtils_DEFINED
 #define SkShadowUtils_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 #include <cstdint>
 

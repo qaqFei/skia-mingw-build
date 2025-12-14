@@ -8,8 +8,8 @@
 #ifndef SkImageChromium_DEFINED
 #define SkImageChromium_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 class GrBackendFormat;
 class GrContextThreadSafeProxy;

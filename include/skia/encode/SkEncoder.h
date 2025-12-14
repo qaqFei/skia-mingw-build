@@ -8,10 +8,10 @@
 #ifndef SkEncoder_DEFINED
 #define SkEncoder_DEFINED
 
-#include "include/core/SkPixmap.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkNoncopyable.h"
-#include "include/private/base/SkTemplates.h"
+#include "skia/core/SkPixmap.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkNoncopyable.h"
+#include "skia/private/base/SkTemplates.h"
 
 #include <cstddef>
 #include <cstdint>

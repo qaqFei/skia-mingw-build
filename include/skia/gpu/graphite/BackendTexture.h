@@ -8,22 +8,22 @@
 #ifndef skgpu_graphite_BackendTexture_DEFINED
 #define skgpu_graphite_BackendTexture_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/gpu/graphite/TextureInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/gpu/graphite/TextureInfo.h"
 
 #ifdef SK_DAWN
-#include "include/gpu/graphite/dawn/DawnTypes.h"
+#include "skia/gpu/graphite/dawn/DawnTypes.h"
 #endif
 
 #ifdef SK_METAL
-#include "include/gpu/graphite/mtl/MtlGraphiteTypes.h"
+#include "skia/gpu/graphite/mtl/MtlGraphiteTypes.h"
 #endif
 
 #ifdef SK_VULKAN
-#include "include/gpu/vk/VulkanTypes.h"
-#include "include/private/gpu/vk/SkiaVulkan.h"
+#include "skia/gpu/vk/VulkanTypes.h"
+#include "skia/private/gpu/vk/SkiaVulkan.h"
 #endif
 
 namespace skgpu {

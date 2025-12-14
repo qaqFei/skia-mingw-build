@@ -8,12 +8,12 @@
 #ifndef SkStream_DEFINED
 #define SkStream_DEFINED
 
-#include "include/core/SkData.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkCPUTypes.h"
-#include "include/private/base/SkTo.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkCPUTypes.h"
+#include "skia/private/base/SkTo.h"
 
 #include <cstdint>
 #include <cstdio>

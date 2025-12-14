@@ -8,9 +8,9 @@
 #ifndef SkPoint3_DEFINED
 #define SkPoint3_DEFINED
 
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAssert.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAssert.h"
 
 struct SK_API SkPoint3 {
     SkScalar fX, fY, fZ;

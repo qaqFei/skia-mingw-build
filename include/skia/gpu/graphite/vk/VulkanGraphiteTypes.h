@@ -8,8 +8,8 @@
 #ifndef skgpu_graphite_VulkanGraphiteTypes_DEFINED
 #define skgpu_graphite_VulkanGraphiteTypes_DEFINED
 
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/gpu/vk/VulkanTypes.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/gpu/vk/VulkanTypes.h"
 
 namespace skgpu::graphite {
 

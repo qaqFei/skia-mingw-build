@@ -8,18 +8,18 @@
 #ifndef SkBitmap_DEFINED
 #define SkBitmap_DEFINED
 
-#include "include/core/SkAlphaType.h"
-#include "include/core/SkColor.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkPixmap.h"
-#include "include/core/SkPoint.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkCPUTypes.h"
-#include "include/private/base/SkDebug.h"
+#include "skia/core/SkAlphaType.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkPixmap.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkCPUTypes.h"
+#include "skia/private/base/SkDebug.h"
 
 #include <cstddef>
 #include <cstdint>

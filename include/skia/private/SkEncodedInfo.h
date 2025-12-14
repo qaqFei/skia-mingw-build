@@ -8,13 +8,13 @@
 #ifndef SkEncodedInfo_DEFINED
 #define SkEncodedInfo_DEFINED
 
-#include "include/core/SkAlphaType.h"
-#include "include/core/SkColorSpace.h"
-#include "include/core/SkColorType.h"
-#include "include/core/SkData.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkAlphaType.h"
+#include "skia/core/SkColorSpace.h"
+#include "skia/core/SkColorType.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypes.h"
 #include "modules/skcms/skcms.h"
 
 #include <cstdint>

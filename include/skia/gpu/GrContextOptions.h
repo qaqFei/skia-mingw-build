@@ -8,13 +8,13 @@
 #ifndef GrContextOptions_DEFINED
 #define GrContextOptions_DEFINED
 
-#include "include/core/SkData.h"
-#include "include/core/SkString.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GrDriverBugWorkarounds.h"
-#include "include/gpu/GrTypes.h"
-#include "include/gpu/ShaderErrorHandler.h"
-#include "include/private/gpu/ganesh/GrTypesPriv.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkString.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GrDriverBugWorkarounds.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/gpu/ShaderErrorHandler.h"
+#include "skia/private/gpu/ganesh/GrTypesPriv.h"
 
 #include <vector>
 

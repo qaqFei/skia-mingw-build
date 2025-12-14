@@ -8,8 +8,8 @@
 #ifndef skgpu_VulkanTypes_DEFINED
 #define skgpu_VulkanTypes_DEFINED
 
-#include "include/core/SkTypes.h"
-#include "include/private/gpu/vk/SkiaVulkan.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/gpu/vk/SkiaVulkan.h"
 
 #include <cstddef>
 #include <functional>

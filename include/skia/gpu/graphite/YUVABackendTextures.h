@@ -8,9 +8,9 @@
 #ifndef skgpu_graphite_YUVABackendTextures_DEFINED
 #define skgpu_graphite_YUVABackendTextures_DEFINED
 
-#include "include/core/SkSpan.h"
-#include "include/core/SkYUVAInfo.h"
-#include "include/gpu/graphite/BackendTexture.h"
+#include "skia/core/SkSpan.h"
+#include "skia/core/SkYUVAInfo.h"
+#include "skia/gpu/graphite/BackendTexture.h"
 
 #include <tuple>
 

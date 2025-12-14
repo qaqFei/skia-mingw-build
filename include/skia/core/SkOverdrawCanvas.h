@@ -8,14 +8,14 @@
 #ifndef SkOverdrawCanvas_DEFINED
 #define SkOverdrawCanvas_DEFINED
 
-#include "include/core/SkCanvas.h"
-#include "include/core/SkCanvasVirtualEnforcer.h"
-#include "include/core/SkColor.h"
-#include "include/core/SkPaint.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkScalar.h"
-#include "include/private/base/SkAPI.h"
-#include "include/utils/SkNWayCanvas.h"
+#include "skia/core/SkCanvas.h"
+#include "skia/core/SkCanvasVirtualEnforcer.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkPaint.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkScalar.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/utils/SkNWayCanvas.h"
 
 #include <cstddef>
 

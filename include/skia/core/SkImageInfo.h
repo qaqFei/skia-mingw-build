@@ -8,15 +8,15 @@
 #ifndef SkImageInfo_DEFINED
 #define SkImageInfo_DEFINED
 
-#include "include/core/SkAlphaType.h"
-#include "include/core/SkColorType.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkDebug.h"
-#include "include/private/base/SkMath.h"
-#include "include/private/base/SkTFitsIn.h"
+#include "skia/core/SkAlphaType.h"
+#include "skia/core/SkColorType.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkDebug.h"
+#include "skia/private/base/SkMath.h"
+#include "skia/private/base/SkTFitsIn.h"
 
 #include <cstddef>
 #include <cstdint>

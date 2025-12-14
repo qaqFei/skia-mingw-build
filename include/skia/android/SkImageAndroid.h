@@ -8,9 +8,9 @@
 #ifndef SkImageAndroid_DEFINED
 #define SkImageAndroid_DEFINED
 
-#include "include/core/SkImage.h"
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GrTypes.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GrTypes.h"
 
 class SkColorSpace;
 class GrDirectContext;

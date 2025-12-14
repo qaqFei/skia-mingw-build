@@ -8,18 +8,18 @@
 #ifndef GrSurfaceCharacterization_DEFINED
 #define GrSurfaceCharacterization_DEFINED
 
-#include "include/core/SkColorSpace.h" // IWYU pragma: keep
-#include "include/core/SkColorType.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkSurfaceProps.h"
-#include "include/core/SkTypes.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/GrBackendSurface.h"
-#include "include/gpu/GrContextThreadSafeProxy.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkDebug.h"
+#include "skia/core/SkColorSpace.h" // IWYU pragma: keep
+#include "skia/core/SkColorType.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkSurfaceProps.h"
+#include "skia/core/SkTypes.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/GrBackendSurface.h"
+#include "skia/gpu/GrContextThreadSafeProxy.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkDebug.h"
 
 #include <cstddef>
 #include <utility>

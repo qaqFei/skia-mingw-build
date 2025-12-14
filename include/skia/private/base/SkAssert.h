@@ -8,9 +8,9 @@
 #ifndef SkAssert_DEFINED
 #define SkAssert_DEFINED
 
-#include "include/private/base/SkAPI.h"
-#include "include/private/base/SkAttributes.h"
-#include "include/private/base/SkDebug.h" // IWYU pragma: keep
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/base/SkAttributes.h"
+#include "skia/private/base/SkDebug.h" // IWYU pragma: keep
 
 #include <cstddef>
 #include <limits>

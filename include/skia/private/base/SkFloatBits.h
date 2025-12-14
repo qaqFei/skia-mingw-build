@@ -8,7 +8,7 @@
 #ifndef SkFloatBits_DEFINED
 #define SkFloatBits_DEFINED
 
-#include "include/private/base/SkMath.h"
+#include "skia/private/base/SkMath.h"
 
 #include <cstdint>
 

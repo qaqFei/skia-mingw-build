@@ -8,10 +8,10 @@
 #ifndef SkStrokeRec_DEFINED
 #define SkStrokeRec_DEFINED
 
-#include "include/core/SkPaint.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkMacros.h"
+#include "skia/core/SkPaint.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkMacros.h"
 
 #include <cstdint>
 

@@ -6,4 +6,4 @@
  */
 
 // TODO(kjlubick,jvanverth) Remove this shim file after updating clients
-#include "include/gpu/ganesh/mtl/GrMtlBackendContext.h"
+#include "skia/gpu/ganesh/mtl/GrMtlBackendContext.h"

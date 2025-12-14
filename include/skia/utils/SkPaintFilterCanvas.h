@@ -8,17 +8,17 @@
 #ifndef SkPaintFilterCanvas_DEFINED
 #define SkPaintFilterCanvas_DEFINED
 
-#include "include/core/SkCanvas.h"
-#include "include/core/SkCanvasVirtualEnforcer.h"
-#include "include/core/SkColor.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSamplingOptions.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTDArray.h"
-#include "include/utils/SkNWayCanvas.h"
+#include "skia/core/SkCanvas.h"
+#include "skia/core/SkCanvasVirtualEnforcer.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSamplingOptions.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTDArray.h"
+#include "skia/utils/SkNWayCanvas.h"
 
 #include <cstddef>
 

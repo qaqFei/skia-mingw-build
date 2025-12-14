@@ -8,9 +8,9 @@
 #ifndef GrVkSecondaryCBDrawContext_DEFINED
 #define GrVkSecondaryCBDrawContext_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSurfaceProps.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSurfaceProps.h"
+#include "skia/core/SkTypes.h"
 
 #include <memory>
 

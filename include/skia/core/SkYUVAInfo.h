@@ -8,11 +8,11 @@
 #ifndef SkYUVAInfo_DEFINED
 #define SkYUVAInfo_DEFINED
 
-#include "include/codec/SkEncodedOrigin.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkMatrix.h"
-#include "include/core/SkSize.h"
-#include "include/core/SkTypes.h"
+#include "skia/codec/SkEncodedOrigin.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkMatrix.h"
+#include "skia/core/SkSize.h"
+#include "skia/core/SkTypes.h"
 
 #include <array>
 #include <cstddef>

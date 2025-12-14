@@ -6,4 +6,4 @@
  */
 
 // TODO(kjlubick) delete after Chrome (and Android?) are migrated.
-#include "include/gpu/ganesh/vk/GrBackendDrawableInfo.h"
+#include "skia/gpu/ganesh/vk/GrBackendDrawableInfo.h"

@@ -8,9 +8,9 @@
 #ifndef skgpu_graphite_MtlGraphiteTypesPriv_DEFINED
 #define skgpu_graphite_MtlGraphiteTypesPriv_DEFINED
 
-#include "include/core/SkString.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
-#include "include/gpu/graphite/mtl/MtlGraphiteTypes.h"
+#include "skia/core/SkString.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
+#include "skia/gpu/graphite/mtl/MtlGraphiteTypes.h"
 
 ///////////////////////////////////////////////////////////////////////////////
 

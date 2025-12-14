@@ -8,10 +8,10 @@
 #ifndef SkAndroidFrameworkUtils_DEFINED
 #define SkAndroidFrameworkUtils_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkPoint.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTileMode.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkPoint.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTileMode.h"
 
 #ifdef SK_BUILD_FOR_ANDROID_FRAMEWORK
 

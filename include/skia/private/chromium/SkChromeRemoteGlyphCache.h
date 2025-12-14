@@ -8,9 +8,9 @@
 #ifndef SkChromeRemoteGlyphCache_DEFINED
 #define SkChromeRemoteGlyphCache_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypeface.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypeface.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstddef>
 #include <cstdint>

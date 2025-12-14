@@ -8,7 +8,7 @@
 #ifndef GrVkMemoryAllocator_DEFINED
 #define GrVkMemoryAllocator_DEFINED
 
-#include "include/gpu/vk/VulkanMemoryAllocator.h"
+#include "skia/gpu/vk/VulkanMemoryAllocator.h"
 
 using GrVkMemoryAllocator = skgpu::VulkanMemoryAllocator;
 

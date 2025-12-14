@@ -8,11 +8,11 @@
 #ifndef skgpu_graphite_Image_DEFINED
 #define skgpu_graphite_Image_DEFINED
 
-#include "include/core/SkColorSpace.h"
-#include "include/core/SkImage.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSpan.h"
-#include "include/gpu/GpuTypes.h"
+#include "skia/core/SkColorSpace.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSpan.h"
+#include "skia/gpu/GpuTypes.h"
 
 class SkYUVAInfo;
 class SkYUVAPixmaps;

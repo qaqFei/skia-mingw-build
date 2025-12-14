@@ -8,7 +8,7 @@
 #ifndef SKSL_DEBUG_TRACE
 #define SKSL_DEBUG_TRACE
 
-#include "include/core/SkRefCnt.h"
+#include "skia/core/SkRefCnt.h"
 
 class SkWStream;
 

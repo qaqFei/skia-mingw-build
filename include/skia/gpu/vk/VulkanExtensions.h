@@ -8,9 +8,9 @@
 #ifndef skgpu_VulkanExtensions_DEFINED
 #define skgpu_VulkanExtensions_DEFINED
 
-#include "include/core/SkString.h"
-#include "include/gpu/vk/VulkanTypes.h"
-#include "include/private/base/SkTArray.h"
+#include "skia/core/SkString.h"
+#include "skia/gpu/vk/VulkanTypes.h"
+#include "skia/private/base/SkTArray.h"
 
 namespace skgpu {
 

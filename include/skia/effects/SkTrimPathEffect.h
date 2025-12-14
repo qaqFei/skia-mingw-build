@@ -8,9 +8,9 @@
 #ifndef SkTrimPathEffect_DEFINED
 #define SkTrimPathEffect_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 class SkPathEffect;
 

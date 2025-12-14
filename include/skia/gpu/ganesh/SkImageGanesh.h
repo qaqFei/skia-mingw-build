@@ -8,11 +8,11 @@
 #ifndef SkImageGanesh_DEFINED
 #define SkImageGanesh_DEFINED
 
-#include "include/core/SkImage.h"
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkImage.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <functional>
 #include <utility>

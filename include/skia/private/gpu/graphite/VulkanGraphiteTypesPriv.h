@@ -8,9 +8,9 @@
 #ifndef skgpu_graphite_VulkanGraphiteTypesPriv_DEFINED
 #define skgpu_graphite_VulkanGraphiteTypesPriv_DEFINED
 
-#include "include/core/SkString.h"
-#include "include/gpu/graphite/vk/VulkanGraphiteTypes.h"
-#include "include/private/gpu/vk/SkiaVulkan.h"
+#include "skia/core/SkString.h"
+#include "skia/gpu/graphite/vk/VulkanGraphiteTypes.h"
+#include "skia/private/gpu/vk/SkiaVulkan.h"
 
 namespace skgpu::graphite {
 

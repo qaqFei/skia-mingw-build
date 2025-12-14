@@ -8,9 +8,9 @@
 #ifndef SkOpenTypeSVGDecoder_DEFINED
 #define SkOpenTypeSVGDecoder_DEFINED
 
-#include "include/core/SkColor.h"
-#include "include/core/SkSpan.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkColor.h"
+#include "skia/core/SkSpan.h"
+#include "skia/core/SkTypes.h"
 
 #include <memory>
 

@@ -8,14 +8,14 @@
 #ifndef SkCustomTypeface_DEFINED
 #define SkCustomTypeface_DEFINED
 
-#include "include/core/SkDrawable.h"
-#include "include/core/SkFontMetrics.h"
-#include "include/core/SkFontStyle.h"
-#include "include/core/SkPath.h"
-#include "include/core/SkRect.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkTypeface.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkDrawable.h"
+#include "skia/core/SkFontMetrics.h"
+#include "skia/core/SkFontStyle.h"
+#include "skia/core/SkPath.h"
+#include "skia/core/SkRect.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkTypeface.h"
+#include "skia/core/SkTypes.h"
 
 #include <memory>
 #include <vector>

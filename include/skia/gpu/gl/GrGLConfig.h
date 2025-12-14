@@ -11,7 +11,7 @@
 #ifndef GrGLConfig_DEFINED
 #define GrGLConfig_DEFINED
 
-#include "include/gpu/GrTypes.h"
+#include "skia/gpu/GrTypes.h"
 
 /**
  * Optional GL config file.

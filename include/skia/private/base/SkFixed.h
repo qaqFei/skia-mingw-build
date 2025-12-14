@@ -8,10 +8,10 @@
 #ifndef SkFixed_DEFINED
 #define SkFixed_DEFINED
 
-#include "include/private/base/SkAssert.h"
-#include "include/private/base/SkDebug.h"
-#include "include/private/base/SkMath.h" // IWYU pragma: keep
-#include "include/private/base/SkTPin.h" // IWYU pragma: keep
+#include "skia/private/base/SkAssert.h"
+#include "skia/private/base/SkDebug.h"
+#include "skia/private/base/SkMath.h" // IWYU pragma: keep
+#include "skia/private/base/SkTPin.h" // IWYU pragma: keep
 
 #include <cstdint>
 

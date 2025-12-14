@@ -8,9 +8,9 @@
 #ifndef GrContext_Base_DEFINED
 #define GrContext_Base_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GrTypes.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/private/base/SkAPI.h"
 
 #include <cstdint>
 

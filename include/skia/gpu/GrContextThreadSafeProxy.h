@@ -8,11 +8,11 @@
 #ifndef GrContextThreadSafeProxy_DEFINED
 #define GrContextThreadSafeProxy_DEFINED
 
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GpuTypes.h"
-#include "include/gpu/GrContextOptions.h"
-#include "include/gpu/GrTypes.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GpuTypes.h"
+#include "skia/gpu/GrContextOptions.h"
+#include "skia/gpu/GrTypes.h"
 
 #include <atomic>
 

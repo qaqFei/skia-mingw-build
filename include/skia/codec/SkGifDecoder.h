@@ -7,9 +7,9 @@
 #ifndef SkGifDecoder_DEFINED
 #define SkGifDecoder_DEFINED
 
-#include "include/codec/SkCodec.h"
-#include "include/core/SkRefCnt.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/codec/SkCodec.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/private/base/SkAPI.h"
 
 class SkData;
 class SkStream;

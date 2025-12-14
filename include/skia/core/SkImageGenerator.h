@@ -8,16 +8,16 @@
 #ifndef SkImageGenerator_DEFINED
 #define SkImageGenerator_DEFINED
 
-#include "include/core/SkData.h"
-#include "include/core/SkImageInfo.h"
-#include "include/core/SkPixmap.h"
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkYUVAPixmaps.h"
-#include "include/private/base/SkAPI.h"
+#include "skia/core/SkData.h"
+#include "skia/core/SkImageInfo.h"
+#include "skia/core/SkPixmap.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkYUVAPixmaps.h"
+#include "skia/private/base/SkAPI.h"
 
 #if defined(SK_GRAPHITE)
-#include "include/core/SkImage.h"
-#include "include/gpu/graphite/Recorder.h"
+#include "skia/core/SkImage.h"
+#include "skia/gpu/graphite/Recorder.h"
 #endif
 
 #include <cstddef>

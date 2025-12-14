@@ -8,8 +8,8 @@
 #ifndef GrTypes_DEFINED
 #define GrTypes_DEFINED
 
-#include "include/core/SkTypes.h"
-#include "include/private/base/SkTo.h" // IWYU pragma: keep
+#include "skia/core/SkTypes.h"
+#include "skia/private/base/SkTo.h" // IWYU pragma: keep
 
 #include <cstddef>
 #include <cstdint>

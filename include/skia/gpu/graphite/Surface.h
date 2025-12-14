@@ -8,9 +8,9 @@
 #ifndef skgpu_graphite_Surface_DEFINED
 #define skgpu_graphite_Surface_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSurface.h"
-#include "include/gpu/GpuTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSurface.h"
+#include "skia/gpu/GpuTypes.h"
 
 class SkImage;
 struct SkImageInfo;

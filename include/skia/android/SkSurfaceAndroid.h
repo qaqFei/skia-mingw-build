@@ -8,9 +8,9 @@
 #ifndef SkSurfaceAndroid_DEFINED
 #define SkSurfaceAndroid_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSurface.h"
-#include "include/gpu/GrTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSurface.h"
+#include "skia/gpu/GrTypes.h"
 
 class SkColorSpace;
 class GrDirectContext;

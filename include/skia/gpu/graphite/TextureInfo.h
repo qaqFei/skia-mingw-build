@@ -8,19 +8,19 @@
 #ifndef skgpu_graphite_TextureInfo_DEFINED
 #define skgpu_graphite_TextureInfo_DEFINED
 
-#include "include/core/SkString.h"
-#include "include/gpu/graphite/GraphiteTypes.h"
+#include "skia/core/SkString.h"
+#include "skia/gpu/graphite/GraphiteTypes.h"
 
 #ifdef SK_DAWN
-#include "include/private/gpu/graphite/DawnTypesPriv.h"
+#include "skia/private/gpu/graphite/DawnTypesPriv.h"
 #endif
 
 #ifdef SK_METAL
-#include "include/private/gpu/graphite/MtlGraphiteTypesPriv.h"
+#include "skia/private/gpu/graphite/MtlGraphiteTypesPriv.h"
 #endif
 
 #ifdef SK_VULKAN
-#include "include/private/gpu/graphite/VulkanGraphiteTypesPriv.h"
+#include "skia/private/gpu/graphite/VulkanGraphiteTypesPriv.h"
 #endif
 
 struct SkISize;

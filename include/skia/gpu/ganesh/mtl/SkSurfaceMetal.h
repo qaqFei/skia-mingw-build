@@ -8,11 +8,11 @@
 #ifndef SkSurfaceMetal_DEFINED
 #define SkSurfaceMetal_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/core/SkSurface.h"
-#include "include/gpu/GrTypes.h"
-#include "include/gpu/ganesh/SkSurfaceGanesh.h"
-#include "include/gpu/ganesh/mtl/GrMtlTypes.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/core/SkSurface.h"
+#include "skia/gpu/GrTypes.h"
+#include "skia/gpu/ganesh/SkSurfaceGanesh.h"
+#include "skia/gpu/ganesh/mtl/GrMtlTypes.h"
 
 namespace SkSurfaces {
 /** Creates SkSurface from CAMetalLayer.

@@ -8,7 +8,7 @@
 #ifndef SkBlenders_DEFINED
 #define SkBlenders_DEFINED
 
-#include "include/core/SkBlender.h"
+#include "skia/core/SkBlender.h"
 
 class SK_API SkBlenders {
 public:

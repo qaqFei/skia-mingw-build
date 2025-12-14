@@ -8,10 +8,10 @@
 #ifndef GrExternalTextureGenerator_DEFINED
 #define GrExternalTextureGenerator_DEFINED
 
-#include "include/core/SkRefCnt.h"
-#include "include/gpu/GrBackendSurface.h"
-#include "include/private/base/SkAPI.h"
-#include "include/private/gpu/ganesh/GrTextureGenerator.h"
+#include "skia/core/SkRefCnt.h"
+#include "skia/gpu/GrBackendSurface.h"
+#include "skia/private/base/SkAPI.h"
+#include "skia/private/gpu/ganesh/GrTextureGenerator.h"
 
 #include <memory>
 

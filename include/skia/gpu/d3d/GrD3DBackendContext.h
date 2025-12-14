@@ -18,9 +18,9 @@
 // * MemoryBarrier
 //
 // You should only include GrD3DBackendContext.h if you are prepared to rename those identifiers.
-#include "include/gpu/d3d/GrD3DTypes.h"
+#include "skia/gpu/d3d/GrD3DTypes.h"
 
-#include "include/gpu/GrTypes.h"
+#include "skia/gpu/GrTypes.h"
 
 // The BackendContext contains all of the base D3D objects needed by the GrD3DGpu. The assumption
 // is that the client will set these up and pass them to the GrD3DGpu constructor.

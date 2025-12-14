@@ -8,9 +8,9 @@
 #ifndef SkM44_DEFINED
 #define SkM44_DEFINED
 
-#include "include/core/SkMatrix.h"
-#include "include/core/SkScalar.h"
-#include "include/core/SkTypes.h"
+#include "skia/core/SkMatrix.h"
+#include "skia/core/SkScalar.h"
+#include "skia/core/SkTypes.h"
 
 #include <cstring>
 

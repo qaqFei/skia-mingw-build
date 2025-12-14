@@ -15,7 +15,7 @@
 #include "skia/core/SkImageInfo.h"
 #include "skia/core/SkRefCnt.h"
 #include "skia/core/SkTypes.h"
-#include "modules/skcms/skcms.h"
+#include "skia/modules/skcms/skcms.h"
 
 #include <cstdint>
 #include <memory>

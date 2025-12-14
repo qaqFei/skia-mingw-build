@@ -19,7 +19,7 @@
 #include "skia/core/SkYUVAPixmaps.h"
 #include "skia/private/SkEncodedInfo.h"
 #include "skia/private/base/SkNoncopyable.h"
-#include "modules/skcms/skcms.h"
+#include "skia/modules/skcms/skcms.h"
 
 #include <cstddef>
 #include <functional>

@@ -12,7 +12,7 @@
 #include "skia/core/SkTypes.h"
 #include "skia/private/base/SkFixed.h"
 #include "skia/private/base/SkOnce.h"
-#include "modules/skcms/skcms.h"
+#include "skia/modules/skcms/skcms.h"
 
 #include <cstddef>
 #include <cstdint>

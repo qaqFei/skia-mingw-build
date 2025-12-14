@@ -16,7 +16,7 @@
 #include "skia/core/SkTypes.h"
 #include "skia/private/SkEncodedInfo.h"
 #include "skia/private/base/SkNoncopyable.h"
-#include "modules/skcms/skcms.h"
+#include "skia/modules/skcms/skcms.h"
 
 // TODO(kjlubick, bungeman) Replace these includes with forward declares
 #include "skia/codec/SkEncodedImageFormat.h" // IWYU pragma: keep
